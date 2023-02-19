@@ -17,6 +17,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "AISpawner",
+			"Enabled": true
 		}
 	]
 }
